@@ -1,0 +1,15 @@
+{
+  "originHash" : "4d95ef09b897759dface979d3c376ec2534ae6c4c557354becbb3505ec194955",
+  "pins" : [
+    {
+      "identity" : "vlc_spm",
+      "kind" : "remoteSourceControl",
+      "location" : "https://gitlab.com/Kyrylenko/vlc_spm",
+      "state" : {
+        "branch" : "main",
+        "revision" : "4192b448f827bd9d88a4c61e0c9791e298f345c4"
+      }
+    }
+  ],
+  "version" : 3
+}
