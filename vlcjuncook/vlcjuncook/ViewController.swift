@@ -36,7 +36,7 @@ class ViewController: UIViewController {
         mediaPlayer = VLCMediaPlayer()
         mediaPlayer?.drawable = videoView
         
-        if let url = URL(string: "rtsp://admin:1234@goduck.dvrhost.net:554/video1") {
+        if let url = URL(string: "rtsp://admin:L2C5A6F7@172.16.1.105:554/cam/realmonitor?channel=2&subtype=0") {
             let media = VLCMedia(url: url)
             mediaPlayer?.media = media
         }
