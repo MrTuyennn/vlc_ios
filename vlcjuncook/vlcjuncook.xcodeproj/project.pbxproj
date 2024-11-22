@@ -14,6 +14,7 @@
 		7ACDDD4E2C9AC7E700F4163C /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 7ACDDD4D2C9AC7E700F4163C /* Base */; };
 		7ACDDD502C9AC7E900F4163C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7ACDDD4F2C9AC7E900F4163C /* Assets.xcassets */; };
 		7ACDDD532C9AC7E900F4163C /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 7ACDDD522C9AC7E900F4163C /* Base */; };
+		7AD7D0CB2CEF1F2300850F14 /* Vlc.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7AD7D0CA2CEF1F1D00850F14 /* Vlc.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		7ACDDD5D2C9AC7E900F4163C /* vlcjuncookTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = vlcjuncookTests.swift; sourceTree = "<group>"; };
 		7ACDDD672C9AC7E900F4163C /* vlcjuncookUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = vlcjuncookUITests.swift; sourceTree = "<group>"; };
 		7ACDDD692C9AC7E900F4163C /* vlcjuncookUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = vlcjuncookUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		7AD7D0CA2CEF1F1D00850F14 /* Vlc.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Vlc.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -71,6 +73,7 @@
 		7ACDDD452C9AC7E700F4163C /* vlcjuncook */ = {
 			isa = PBXGroup;
 			children = (
+				7AD7D0CA2CEF1F1D00850F14 /* Vlc.swift */,
 				7ACDDD462C9AC7E700F4163C /* AppDelegate.swift */,
 				7ACDDD482C9AC7E700F4163C /* SceneDelegate.swift */,
 				7ACDDD4A2C9AC7E700F4163C /* ViewController.swift */,
@@ -177,6 +180,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				7ACDDD4B2C9AC7E700F4163C /* ViewController.swift in Sources */,
+				7AD7D0CB2CEF1F2300850F14 /* Vlc.swift in Sources */,
 				7ACDDD472C9AC7E700F4163C /* AppDelegate.swift in Sources */,
 				7ACDDD492C9AC7E700F4163C /* SceneDelegate.swift in Sources */,
 			);
